@@ -101,3 +101,5 @@ elif user_type == "Student":
                 st.write("Quiz Completed!")
     else:
         st.error("Please upload a PDF file.")
+
+#ended
